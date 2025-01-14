@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import './Home.css';
-import { FaNodeJs, FaReact, FaGithub } from 'react-icons/fa';
-import { DiMongodb } from 'react-icons/di';
-
 class Home extends Component {
   render() {
     return (
@@ -36,13 +33,6 @@ class Home extends Component {
             <div className="col-lg-6">
               <div className="banner-right">
                 <h1 className="text-capitalize">
-                  <DiMongodb className="text-success" />
-                  <img
-                    src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-                    alt="e"
-                  />
-                  <FaReact className="text-info" />
-                  <FaNodeJs className="text-success" />
                 </h1>
               </div>
             </div>

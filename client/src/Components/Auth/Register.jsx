@@ -54,8 +54,7 @@ class Register extends Component {
             <div className="col-lg-6">
               <div className="signup-left">
                 <h4 className="text-capitalize">
-                  To Register With Our Application You should must Put Your Own
-                  mongoURI Id in the <kbd>config/default.json</kbd>
+                  To Register With Our Application ,Fill your Details as instructed
                 </h4>
               </div>
             </div>

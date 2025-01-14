@@ -1,4 +1,4 @@
 {
-    "mongoURI": "Your mongoURI",
+    "mongoURI": "mongodb://localhost:27017/Login?appName=MongoDB+Compass&directConnection=true&serverSelectionTimeoutMS=2000",
     "secretOrKey": "secret"
 }
